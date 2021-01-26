@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /home/lsi/projects/Dev2/scanip
+/home/lsi/projects/Dev2/scanip/scanip.py
